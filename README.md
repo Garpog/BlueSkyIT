@@ -2,7 +2,7 @@
 Please Place Your Ideas in here:
 
 
-Andrew - Automated Email Response
+Andrew - Automated Operating System Installation
 
 Bill - Automated Greeting Message
 
